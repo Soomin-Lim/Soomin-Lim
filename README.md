@@ -5,8 +5,8 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin-Lim&theme=omni)](https://github.com/Soomin-Lim/github-readme-stats)
-[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=whysoserious)](https://solved.ac/whysoserious)
 [![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soomin-Lim&theme=tokyonight)](https://github.com/Soomin-Lim/github-readme-stats)
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=whysoserious)](https://solved.ac/whysoserious)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
   
