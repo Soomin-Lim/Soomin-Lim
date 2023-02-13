@@ -2,8 +2,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Soomin%20Lim&fontSize=70)
   
-  <a href="https://serendev.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://serendev.tistory.com/"/></a> 
+  <a href="https://serendev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://serendev.tistory.com/"/></a> 
   <a href="mailto:augustth511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:augustth511@gmail.com"/></a>
+
+---
   
   <h3>📚 Tech Stack 📚</h3>
   <p>💻 Platforms & Programming Languages</p>
