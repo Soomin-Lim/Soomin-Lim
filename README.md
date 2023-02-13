@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=200&section=header&text=Soomin Lim&fontSize=70)
+
+[![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soomin-Lim)](https://github.com/Soomin-Lim/github-readme-stats)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+  
+</div>
 
 <!--
 **Soomin-Lim/Soomin-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
