@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=200&section=header&text=Soomin Lim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=200&section=header&text=Soomin%20Lim&fontSize=70)
 
 [![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soomin-Lim)](https://github.com/Soomin-Lim/github-readme-stats)
 
