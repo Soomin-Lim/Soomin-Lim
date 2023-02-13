@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <br>
+  <br>
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin-Lim&theme=omni)](https://github.com/Soomin-Lim/github-readme-stats)
