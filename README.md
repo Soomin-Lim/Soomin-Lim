@@ -1,6 +1,8 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=200&section=header&text=Soomin%20Lim&fontSize=70)
+  
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin-Lim)](https://github.com/Soomin-Lim/github-readme-stats)
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=whysoserious)](https://solved.ac/whysoserious)
