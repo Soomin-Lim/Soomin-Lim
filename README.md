@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=200&section=header&text=Soomin%20Lim&fontSize=70)
   
----
   <h3>📚 Tech Stack 📚</h3>
   <p>💻 Platforms & Programming Languages</p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
