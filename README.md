@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=200&section=header&text=Soomin%20Lim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Soomin%20Lim&fontSize=70)
   
   <h3>📚 Tech Stack 📚</h3>
   <p>💻 Platforms & Programming Languages</p>
@@ -37,7 +37,7 @@
   <br>
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=whysoserious)](https://solved.ac/whysoserious)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
   
 </div>
 
