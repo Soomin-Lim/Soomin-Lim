@@ -1,12 +1,12 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=200&section=header&text=Soomin%20Lim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Soomin%20Lim&fontSize=70)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin-Lim)](https://github.com/Soomin-Lim/github-readme-stats)
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=whysoserious)](https://solved.ac/whysoserious)
 [![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soomin-Lim)](https://github.com/Soomin-Lim/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
   
 </div>
 
