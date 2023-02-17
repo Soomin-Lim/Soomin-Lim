@@ -9,6 +9,7 @@
   
   <h3>📚 Tech Stack 📚</h3>
   <p>💻 Platforms & Programming Languages</p>
+  <div style="display:flex;">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
@@ -34,6 +35,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <br>
   <br>
+    </div>
   
 [![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soomin-Lim&theme=tokyonight)](https://github.com/Soomin-Lim/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin-Lim&theme=omni)](https://github.com/Soomin-Lim/github-readme-stats)
