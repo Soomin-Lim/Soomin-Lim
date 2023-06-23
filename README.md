@@ -39,13 +39,14 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <br>
   <br>
-  
+
+  <!--
 [![Soomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soomin-Lim&theme=tokyonight)](https://github.com/Soomin-Lim/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin-Lim&theme=omni)](https://github.com/Soomin-Lim/github-readme-stats)
-  <br>
-<!--
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=whysoserious)](https://solved.ac/whysoserious)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soomin-Lim&theme=omni)](https://github.com/Soomin-Lim/github-readme-stats)
+  <br>
+
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
   
